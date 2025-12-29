@@ -67,13 +67,13 @@ Coming soon...
 
 ---
 
-📄 Notes
+## 📄 Notes
 
-Designed for internal operations
+- Designed for internal operations
 
-Focused on scalability and clarity
+- Focused on scalability and clarity
 
-Built to support both grocery & restaurant workflows
+- Built to support both grocery & restaurant workflows
 
 ---
 
