@@ -1,6 +1,6 @@
 # ⚡ Flash Deliveries — Admin Dashboard
 
-![Admin Hero](ecom-admin-app.png)
+![Admin Hero](ecom-admin-app.jpg)
 
 The **Admin Web App** is a powerful dashboard for managing **grocery and restaurant operations**, including products, orders, users, and delivery workflows.
 
