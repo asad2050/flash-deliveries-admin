@@ -12,13 +12,9 @@ Built with **Next.js**, this dashboard acts as the control center for the Flash 
 - Customer Mobile App: https://github.com/asad2050/flash-deliveries-mobile
 
 ---
-
-## Screenshots
-Coming soon...
-
 ## Demo Video
 
-Coming soon...
+▶️ [Watch Admin Dashboard Demo](https://youtu.be/8xhfIJ7Ro8A)
 
 ---
 
