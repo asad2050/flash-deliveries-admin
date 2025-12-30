@@ -14,7 +14,7 @@ Built with **Next.js**, this dashboard acts as the control center for the Flash 
 ---
 ## Demo Video
 
-Coming soon...
+▶️ [Watch Admin Dashboard Demo](https://drive.google.com/file/d/12FHbhTdx1PkrrpSEEhLtukudj5yPCtkA/view?usp=drive_link)
 
 ---
 
